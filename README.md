@@ -1,5 +1,9 @@
 # Practice with git and GitHub
-#kamal changes are done
+<<<<<<< HEAD
+#kamal changes are done ok to proceed
+//=======
+//#kamal changes are ok to proceed
+>>>>>>> b4126da6a63681a81008aed2ef8eca5d09b02cf6
 #Praveen Changes
 
 \[Your Step 3 Edit Here\]

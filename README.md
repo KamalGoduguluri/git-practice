@@ -1,5 +1,5 @@
 # Practice with git and GitHub
-#kamal changes
+#kamal changes are done
 #Praveen Changes
 
 \[Your Step 3 Edit Here\]
